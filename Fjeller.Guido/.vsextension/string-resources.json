@@ -1,0 +1,12 @@
+﻿{
+	"InsertGuidMenu.DisplayName": "Insert Guid",
+	"InsertGuidV7Menu.DisplayName": "Insert V7 Guid",
+	"InsertGuidCommand.DisplayName": "Insert GUID",
+	"InsertGuidV7Command.DisplayName": "Insert GUID",
+	"InsertLowercaseGuidCommand.DisplayName": "Insert guid",
+	"InsertLowercaseGuidV7Command.DisplayName": "Insert guid",
+	"InsertGuidWithBracesCommand.DisplayName": "Insert {GUID}",
+	"InsertGuidV7WithBracesCommand.DisplayName": "Insert {GUID}",
+	"InsertLowercaseGuidWithBracesCommand.DisplayName": "Insert {guid}",
+	"InsertLowercaseGuidV7WithBracesCommand.DisplayName": "Insert {guid}"
+}

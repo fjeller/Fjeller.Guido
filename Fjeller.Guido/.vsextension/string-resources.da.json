@@ -1,0 +1,12 @@
+﻿{
+	"InsertGuidMenu.DisplayName": "Indsæt Guid",
+	"InsertGuidV7Menu.DisplayName": "Indsæt V7-Guid",
+	"InsertGuidCommand.DisplayName": "Indsæt GUID",
+	"InsertGuidV7Command.DisplayName": "Indsæt GUID",
+	"InsertLowercaseGuidCommand.DisplayName": "Indsæt guid",
+	"InsertLowercaseGuidV7Command.DisplayName": "Indsæt guid",
+	"InsertGuidWithBracesCommand.DisplayName": "Indsæt {GUID}",
+	"InsertGuidV7WithBracesCommand.DisplayName": "Indsæt {GUID}",
+	"InsertLowercaseGuidWithBracesCommand.DisplayName": "Indsæt {guid}",
+	"InsertLowercaseGuidV7WithBracesCommand.DisplayName": "Indsæt {guid}"
+}

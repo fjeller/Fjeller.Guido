@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/__Solution Items/" />
+  <Folder Name="/__Solution Items/Common/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Project Path="Fjeller.Guido/Fjeller.Guido.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+</Solution>

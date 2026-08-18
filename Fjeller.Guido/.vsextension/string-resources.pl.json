@@ -1,0 +1,12 @@
+﻿{
+	"InsertGuidMenu.DisplayName": "Wstaw Guid",
+	"InsertGuidV7Menu.DisplayName": "Wstaw Guid V7",
+	"InsertGuidCommand.DisplayName": "Wstaw GUID",
+	"InsertGuidV7Command.DisplayName": "Wstaw GUID",
+	"InsertLowercaseGuidCommand.DisplayName": "Wstaw guid",
+	"InsertLowercaseGuidV7Command.DisplayName": "Wstaw guid",
+	"InsertGuidWithBracesCommand.DisplayName": "Wstaw {GUID}",
+	"InsertGuidV7WithBracesCommand.DisplayName": "Wstaw {GUID}",
+	"InsertLowercaseGuidWithBracesCommand.DisplayName": "Wstaw {guid}",
+	"InsertLowercaseGuidV7WithBracesCommand.DisplayName": "Wstaw {guid}"
+}

@@ -1,0 +1,12 @@
+﻿{
+	"InsertGuidMenu.DisplayName": "Sett inn Guid",
+	"InsertGuidV7Menu.DisplayName": "Sett inn V7-Guid",
+	"InsertGuidCommand.DisplayName": "Sett inn GUID",
+	"InsertGuidV7Command.DisplayName": "Sett inn GUID",
+	"InsertLowercaseGuidCommand.DisplayName": "Sett inn guid",
+	"InsertLowercaseGuidV7Command.DisplayName": "Sett inn guid",
+	"InsertGuidWithBracesCommand.DisplayName": "Sett inn {GUID}",
+	"InsertGuidV7WithBracesCommand.DisplayName": "Sett inn {GUID}",
+	"InsertLowercaseGuidWithBracesCommand.DisplayName": "Sett inn {guid}",
+	"InsertLowercaseGuidV7WithBracesCommand.DisplayName": "Sett inn {guid}"
+}

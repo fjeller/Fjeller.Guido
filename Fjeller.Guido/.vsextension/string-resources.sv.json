@@ -1,0 +1,12 @@
+﻿{
+	"InsertGuidMenu.DisplayName": "Infoga Guid",
+	"InsertGuidV7Menu.DisplayName": "Infoga V7-Guid",
+	"InsertGuidCommand.DisplayName": "Infoga GUID",
+	"InsertGuidV7Command.DisplayName": "Infoga GUID",
+	"InsertLowercaseGuidCommand.DisplayName": "Infoga guid",
+	"InsertLowercaseGuidV7Command.DisplayName": "Infoga guid",
+	"InsertGuidWithBracesCommand.DisplayName": "Infoga {GUID}",
+	"InsertGuidV7WithBracesCommand.DisplayName": "Infoga {GUID}",
+	"InsertLowercaseGuidWithBracesCommand.DisplayName": "Infoga {guid}",
+	"InsertLowercaseGuidV7WithBracesCommand.DisplayName": "Infoga {guid}"
+}
