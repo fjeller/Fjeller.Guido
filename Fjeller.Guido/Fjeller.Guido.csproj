@@ -15,4 +15,36 @@
 		<Content Include="icon.png" />
 		<Content Include="LICENSE.txt" />
 	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="C:\Users\fe\.nuget\packages\microsoft.visualstudio.sdk.analyzers\17.7.79\build\AdditionalFiles\vs-threading.LegacyThreadSwitchingMembers.txt" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="C:\Users\fe\.nuget\packages\microsoft.visualstudio.threading.analyzers\17.14.15\buildTransitive\AdditionalFiles\vs-threading.LegacyThreadSwitchingMembers.txt" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="C:\Users\fe\.nuget\packages\microsoft.visualstudio.sdk.analyzers\17.7.79\build\AdditionalFiles\vs-threading.MainThreadAssertingMethods.txt" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="C:\Users\fe\.nuget\packages\microsoft.visualstudio.threading.analyzers\17.14.15\buildTransitive\AdditionalFiles\vs-threading.MainThreadAssertingMethods.txt" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="C:\Users\fe\.nuget\packages\microsoft.visualstudio.sdk.analyzers\17.7.79\build\AdditionalFiles\vs-threading.MainThreadSwitchingMethods.txt" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="C:\Users\fe\.nuget\packages\microsoft.visualstudio.threading.analyzers\17.14.15\buildTransitive\AdditionalFiles\vs-threading.MainThreadSwitchingMethods.txt" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="C:\Users\fe\.nuget\packages\microsoft.visualstudio.sdk.analyzers\17.7.79\build\AdditionalFiles\vs-threading.MembersRequiringMainThread.txt" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <AdditionalFiles Remove="C:\Users\fe\.nuget\packages\microsoft.visualstudio.threading.analyzers\17.14.15\buildTransitive\AdditionalFiles\vs-threading.MembersRequiringMainThread.txt" />
+	</ItemGroup>
 </Project>
